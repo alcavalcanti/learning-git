@@ -53,8 +53,8 @@ Eu sugiro que usemos o repositório preparado para o tutorial [github.com/alcava
 
 > Para fazer isso use o comando `git clone https://github.com/alcavalcanti/learning-git.git`
 > 
-> <h3>IMPORTANTE!</h3>
-> Ao seguir o tutorial você precisará enviar as alterações feitas no seu _Working Environmnet_ ao _Remote Repository_ e o github não permite que você faça isso no repositório de outra pessoa, portanto a melhor solução é fazer um [_fork_](https://guides.github.com/activities/forking). Há um botão para fazer isso no canto superior direito desta página.
+>## IMPORTANTE!
+> Ao seguir o tutorial você precisará enviar as alterações feitas no seu _Working Environmnet_ ao _Remote Repository_ e o github não permite que você faça isso no repositório de outra pessoa, portanto a melhor solução é fazer um [fork](https://guides.github.com/activities/forking). Há um botão para fazer isso no canto superior direito desta página.
 
 Agora que você possui uma cópia do _Remote Repository_ na sua conta do github através do _fork_, é hora de transferir isso para sua máquina.
 
