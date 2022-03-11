@@ -953,7 +953,7 @@ Dentro do contexto da JSM existem conteúdos muito importantes para sua jornada 
 ## Evolução continua
 É extremamente importante ressaltar que a JSM tem como uma de suas maiores caracteristicas a evolução continua, esse treinamento não é diferente e é totalmente aberto para que todos possam participar, sugerir alterações, enfim, enriquecer o conteúdo de uma maneira geral, suas contribuições sempre serão bem vindas e para te auxiliar nesse caminho existe um artigo do github ensinando sobre [Sintaxe básica de escrita e formatação no GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-Obrigado a todos!
+Obrigado!
 
 Juntos somos mais.
 
@@ -964,8 +964,6 @@ Juntos somos mais.
 > Menção honrosa ao material mais rico relacionado a git atualmente na minha opinião. [Pro Git Book (traduzido para PT-BR)](http://git-scm.com/book/pt-br) e a [página de referência](https://git-scm.com/docs).
 
 > É extremamente recomendado que também entendamos bem a respeito das _pull requests_ que são utilizadas rotineiramente no nosso workflow, você pode encontrar uma explicação sobre esse tema no artigo [Sobre pull requests](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) do github.
-
->Agora depois de entender mais sobre o funcionamento do git de uma maneira geral e seus comandos mais úteis você deve conseguir absorver com clareza o nosso conteudo que explica sobre o [Gitflow para desenvolvedores backend](https://github.com/juntossomosmais/gitflow/blob/main/gitflow/backend/README.md)
 
 > Há um movimento atual para a branch principal deixar de ser chamada como _master_ e passar a ser _trunk_ ou _main_. Linux, Github e outras companhias estão adotando a nova nomenclatura. É uma ótima proposta e totalmente alinhada ao movimento `#BlackLivesMatter`. Você pode entender mais lendo o artigo [The bigger picture behind the GitHub master branch name change](https://dev.to/sylviapap/the-bigger-picture-behind-the-github-master-branch-name-change-35h8).
 
